@@ -12,6 +12,10 @@ This repository contains the code for an AI-powered full-body health scanner tha
 ✅ Detects if a person is **alive or deceased** based on vital signs.  
 ✅ Estimates **height, weight, genetic modifications, and predicts future health risks**.
 
+## Image Preview
+![AI Health Scanner](image.png)
+
+
 ## Features
 - **Real-time health monitoring** using simulated IoT sensors.
 - **Machine learning-based diagnosis** of health conditions.
